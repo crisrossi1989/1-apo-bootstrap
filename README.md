@@ -1,2 +1,3 @@
 # 1-apo-bootstrap
-Actividad Práctica Obligatoria - Unidad 6 (Bootsrap) - JAVA-FRONT END 2022 2 (Comision 22567)
+Actividad Práctica Obligatoria (Bootsrap)
+- CaC-JAVA FS- 22567 (Codo a Codo 4.0 2C 2022)
